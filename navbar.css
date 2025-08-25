@@ -37,3 +37,13 @@ a {
     color: rgb(250, 247, 247);
     text-decoration: none;
 }
+
+.contact-form textarea {
+  min-height: 120px;
+  resize: vertical;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
