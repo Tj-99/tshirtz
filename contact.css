@@ -1,0 +1,33 @@
+
+.contact-form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+.contact-form input, .contact-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.contact-form button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #0078d7;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.contact-info, .social-links {
+  margin-top: 30px;
+  text-align: center;
+}
+.social-links a {
+  margin: 0 10px;
+  color: #0078d7;
+  text-decoration: none;
+  font-weight: bold;
+}
+
