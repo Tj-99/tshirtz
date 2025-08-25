@@ -1,0 +1,39 @@
+h2 {
+text-align: center;
+color: rgb(24, 1, 1);
+box-sizing: content-box;
+padding-top: 2px;
+border: 2px;
+border-radius: 50px;
+background-color: white
+}
+
+body {
+background-color: tan;
+
+}
+
+img {
+width: 150px;
+}
+
+h3 {
+font-size: xx-large;
+text-align: center;
+color: whitesmoke;
+background-color: black;
+border-radius: 50px;
+}
+
+
+p {
+font-size: x-large;
+border: 2px;
+padding: 10px;
+margin: 15px;
+background-color: lightgray;
+border-radius: 150px;
+}
+
+
+
