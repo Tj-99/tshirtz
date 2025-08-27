@@ -1,0 +1,15 @@
+.menu {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.main {
+    background-color: tan;
+    width: auto;
+    height: 83vh;
+    display: flex;
+    flex-direction: row;
+}
