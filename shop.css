@@ -13,7 +13,7 @@ background-color: tan;
 .main {
     background-color: tan;
     width: auto;
-    height: 83vh;
+    height: 80%;
     display: flex;
     flex-direction: row;
 }
