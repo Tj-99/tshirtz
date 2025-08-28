@@ -64,3 +64,9 @@ h1 {
     margin: 15px;
 }
 
+p {
+    font-size: x-large;
+    border: 2px;
+    padding: 10px;
+    margin: 15px;
+}
